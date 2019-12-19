@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\1\source\repos\Project3\Project3\bankint.h(26,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(28,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(30,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(32,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(34,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(36,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(59,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(77,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(108,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\bankint.h(109,7): warning C5051: для атрибута "nodiscard" требуется по крайней мере "/std:c++17"; игнорируется
+C:\Users\1\source\repos\Project3\Project3\acutest.h(367,25): warning C4244: инициализация: преобразование "LONGLONG" в "double", возможна потеря данных
+  Project3.vcxproj -> C:\Users\1\source\repos\Project3\Debug\BankProj.exe
